@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/ClientDao.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/UserDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/impl/ClienDaoImpl.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/test/SignUP.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/StockInDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/impl/AdminDaoImpl.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/entity/User.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/entity/Client.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/GenericDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/impl/StockInDaoImpl.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/test/Inventory.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/impl/LoginDaoImpl.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/constant/SqlConstant.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/constant/DbConstant.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/test/Login.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/entity/Admin.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/entity/StockIn.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/entity/Login.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/StockOutDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/entity/StockOut.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/AdminDAO.java</file>
+            <file>file:/C:/Users/admin/Documents/NetBeansProjects/Test/src/dao/LoginDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
